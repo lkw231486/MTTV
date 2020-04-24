@@ -1,0 +1,14 @@
+<resources>
+    <color name="background_gradient_start">#000000</color>
+    <color name="background_gradient_end">#DDDDDD</color>
+    <color name="fastlane_background">#0096a6</color>
+    <color name="activity_bg">#0096a6</color>
+    <color name="search_opaque">#ffaa3f</color>
+    <color name="selected_background">#ffaa3f</color>
+    <color name="default_background">#3d3d3d</color>
+    <color name="left_border">#385D8A</color>
+    <color name="right_border">#8C3836</color>
+    <color name="left_button">#4F81BD</color>
+    <color name="right_button">#C0504D</color>
+    <color name="red">#FF0000</color>
+</resources>
